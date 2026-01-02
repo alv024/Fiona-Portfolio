@@ -1,0 +1,21 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+
+# Note: Images in the images/ folder should be committed
+# Only add large video files to .gitignore if you accidentally add them
+*.mp4
+*.mov
+*.avi
+*.mkv
+
